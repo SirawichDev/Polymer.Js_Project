@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Sirawich"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/SirawichDev/Polymer.Js_Project",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
